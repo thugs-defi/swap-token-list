@@ -1,0 +1,38 @@
+{
+  "name": "FTM Token List",
+  "timestamp": "2021-04-17T18:54:56.113Z",
+  "version": {
+    "major": 1,
+    "minor": 13,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://tokens.thugs.fi/images/FTM.png",
+  "keywords": ["thugsswap", "streetswap", "hyperswap", "hyperjump", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped FTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.thugs.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 250,
+      "logoURI": "https://tokens.thugs.fi/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "DAI Stablecoin",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.thugs.fi/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    }
+  ]
+}
